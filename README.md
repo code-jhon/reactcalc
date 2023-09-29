@@ -28,7 +28,7 @@ Before you begin, make sure you have the following prerequisites installed on yo
    ```bash
    cd reactcalc
    
-4. Install
+3. Install
 
    ```bash
    npm install
